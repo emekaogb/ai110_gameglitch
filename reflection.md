@@ -14,9 +14,9 @@ Document at least 3 bugs you found. Add rows as needed.
 
 | Input | Expected Behavior | Actual Behavior | Console Output / Error |
 |-------|-------------------|-----------------|------------------------|
-| | | | |
-| | | | |
-| | | | |
+| guessed 0, when the number is supposed to be between 1-100 | out of bounds | says go lower | no console output |
+| guessed 1, same 1-100 case | correct answer or go higher | says go lower | no console output |
+| clicking new game after winning | starts a new game | didn't start a new game "You already won. Start a new game to play again." | no console output |
 
 ---
 
